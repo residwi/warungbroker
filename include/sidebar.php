@@ -42,6 +42,9 @@
                                 <li>
                                     <a href="brokers.php?b=xm">XM</a>
                                 </li>
+                                 <li>
+                                    <a href="brokers.php?b=xm2">XM Big</a>
+                                </li>
                                 <!--<li>-->
                                 <!--    <a href="brokers.php?b=tifia">Tifia</a>-->
                                 <!--</li>-->
@@ -74,8 +77,11 @@
                                     <a href="brokers.php?b=tickmill">Tickmill</a>
                                 </li>
                                 <li>
-                                    <a href="brokers.php?b=xm">XM</a>
+                                    <a href="brokers.php?b=xm">XM Rebate Standard</a>
                                 </li>
+                                 <li>
+                                    <a href="brokers.php?b=xm2">XM Rebate Big</a>
+                                </li> 
                                 <!--<li>-->
                                 <!--    <a href="brokers.php?b=tifia">Tifia</a>-->
                                 <!--</li>-->

@@ -72,9 +72,9 @@
                                                                 </tr>
                                                                 <tr >
                                                                     <td><strong><button type="button" class="btn btn-dark btn-lg btn-block">Buka Akun</button></strong></td>
-                                                                    <td><a href="https://clicks.pipaffiliates.com/c?c=256533&l=id&p=1" target="_blank"> <button type="button" class="btn btn-outline-dark btn-lg btn-block">Akun Micro</button> </a></td>
-                                                                    <td><a href="https://clicks.pipaffiliates.com/c?c=256533&l=id&p=1" target="_blank"> <button type="button" class="btn btn-outline-dark btn-lg btn-block">Akun Standard</button> </a></td>
-                                                                    <td><a href="https://clicks.pipaffiliates.com/c?c=256533&l=id&p=1" target="_blank"> <button type="button" class="btn btn-outline-dark btn-lg btn-block">Akun Ultra Low</button> </a></td>
+                                                                    <td><a href="https://clicks.pipaffiliates.com/c?c=363189&l=id&p=1" target="_blank"> <button type="button" class="btn btn-outline-dark btn-lg btn-block">Akun Micro</button> </a></td>
+                                                                    <td><a href="https://clicks.pipaffiliates.com/c?c=363189&l=id&p=1" target="_blank"> <button type="button" class="btn btn-outline-dark btn-lg btn-block">Akun Standard</button> </a></td>
+                                                                    <td><a href="https://clicks.pipaffiliates.com/c?c=363189&l=id&p=1" target="_blank"> <button type="button" class="btn btn-outline-dark btn-lg btn-block">Akun Ultra Low</button> </a></td>
                                                                                                                                         
                                                                 </tr>
                                                                 

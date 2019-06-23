@@ -57,7 +57,9 @@ session_start();
                                             }elseif ($brok === "tickmill") {
                                             $namalengkapbroker = "Tickmill";
                                             }elseif ($brok === "xm") {
-                                            $namalengkapbroker = "XM";
+                                            $namalengkapbroker = "xm";
+                                            }elseif ($brok === "xm2") {
+                                            $namalengkapbroker = "XM2";
                                             }elseif ($brok === "tifia") {
                                             $namalengkapbroker = "TIFIA";
                                             }elseif ($brok === "just forex") {
@@ -111,6 +113,8 @@ session_start();
                                                         require 'include/akuntickmill.php'; 
                                                     }elseif ($brok === "xm") {
                                                         require 'include/akunxm.php'; 
+                                                    }elseif ($brok === "xm2") {
+                                                        require 'include/akunxmbig.php'; 
                                                     }elseif ($brok === "tifia") {
                                                         require 'include/akuntifia.php'; 
                                                     }elseif ($brok === "just forex") {

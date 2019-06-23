@@ -14,7 +14,7 @@ $mail->Debugoutput = 'html';
 $mail->Port = 587;
 $mail->SMTPAuth = true;
 $mail->Username = "cs@warungbroker.com"; //user email
-$mail->Password = "wb2018"; //password email 
+$mail->Password = "br0k3r"; //password email 
 $mail->SetFrom("cs@warungbroker.com", "WarungBroker.com"); //set email pengirim
 $mail->Subject = "Test mail"; //subyek email
 $mail->AddAddress("sgendenk@gmail.com");  //tujuan email

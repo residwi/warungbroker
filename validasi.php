@@ -133,7 +133,7 @@ if( isset($_POST["submit"]) ) {
                 $mail->Port = 587;
                 $mail->SMTPAuth = true;
                 $mail->Username = "cs@warungbroker.com"; //user email
-                $mail->Password = "wb2018"; //password email 
+                $mail->Password = "br0k3r"; //password email 
                 $mail->SetFrom("cs@warungbroker.com", "WarungBroker"); //set email pengirim
                 $mail->Subject = $SubjectMsg; //subyek email
                 $mail->AddAddress($cEmail);  //tujuan email

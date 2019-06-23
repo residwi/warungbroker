@@ -168,7 +168,7 @@ if( isset($_POST["withdrawal"]) ) {
                 $mail->Port = 587;
                 $mail->SMTPAuth = true;
                 $mail->Username = "cs@warungbroker.com"; //user email
-                $mail->Password = "wb2018"; //password email 
+                $mail->Password = "br0k3r"; //password email 
                 $mail->SetFrom("cs@warungbroker.com", "WarungBroker.com"); //set email pengirim
                 $mail->Subject = $SubjectMsg; //subyek email
                 $mail->AddAddress($cEmail);  //tujuan email
@@ -317,7 +317,7 @@ if( isset($_POST["withdrawalsaku"]) ) {
                 $mail->Port = 587;
                 $mail->SMTPAuth = true;
                 $mail->Username = "cs@warungbroker.com"; //user email
-                $mail->Password = "wb2018"; //password email 
+                $mail->Password = "br0k3r"; //password email 
                 $mail->SetFrom("cs@warungbroker.com", "WarungBroker.com"); //set email pengirim
                 $mail->Subject = $SubjectMsg; //subyek email
                 $mail->AddAddress($cEmail);  //tujuan email
